@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AuthorForm.qml</file>
+        <file>BookForm.qml</file>
+        <file>AuthorAddDialog.qml</file>
+        <file>AuthorDeleteDialog.qml</file>
+        <file>AuthorEditDialog.qml</file>
+        <file>BookAddDialog.qml</file>
+        <file>BookDeleteDialog.qml</file>
+        <file>BookEditDialog.qml</file>
+    </qresource>
+</RCC>
